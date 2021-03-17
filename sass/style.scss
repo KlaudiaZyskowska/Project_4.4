@@ -1,4 +1,3 @@
-
 /* Variables */
 
 $color-one: #909090;
@@ -57,7 +56,6 @@ header {
     }
 }
 
-
 .page-title {
     text-align: center;
     color: $color-four;
@@ -107,13 +105,14 @@ header {
     font-size: 20px;
 }
 
-.box-services h5,p {
+.box-services p {
     text-align: center;
 }
 
 .box-services h5 {
     font-family: $font-three;
     font-size: 20px;
+    text-align: center;
 }
 
 .box-services p {
@@ -179,7 +178,7 @@ header {
 
 /* Footer */
 
-.footer-text a{
+.footer-text a {
     text-align: left;
     display: inline;
     padding: 0;
